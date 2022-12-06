@@ -1,0 +1,18 @@
+h1 {
+  color: rgb(51, 46, 46);
+}
+.rem {
+  margin-left: 5px;
+  background-color: white;
+  color: red;
+  border: none;
+  cursor: pointer;
+}
+.do-list {
+  background-color: rgb(142, 247, 238);
+  width: 300px;
+  height: 600px;
+  text-align: center;
+  margin: 20px;
+  padding: 10px;
+}
